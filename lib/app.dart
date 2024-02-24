@@ -60,8 +60,18 @@ class _ShrineAppState extends State<ShrineApp> {
                 currentCategory: _currentCategory,
                 onCategoryTap: _onCategoryTap,
               ),
-              frontTitle: const Text('LINDA SANTIKA'),
-              backTitle: const Text('MENU'),
+              frontTitle: const Text(
+                'LINDA SANTIKA',
+                style: TextStyle(
+                  color: Colors.white,
+                ),
+              ),
+              backTitle: const Text(
+                'MENU',
+                style: TextStyle(
+                  color: Colors.white,
+                ),
+              ),
             ),
         // TODO: Make currentCategory field take _currentCategory (104)
         // TODO: Pass _currentCategory for frontLayer (104)

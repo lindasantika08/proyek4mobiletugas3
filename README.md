@@ -8,7 +8,7 @@ Tampilan Awal:
 ![WhatsApp Image 2024-02-24 at 16 34 08 (2)](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/e5256bea-237b-42cf-be17-dbbfa0135abd)
 
 
-Tampilan dashboard menampilakn seluruh foto:
+Tampilan dashboard menampilkan seluruh foto:
 
 ![WhatsApp Image 2024-02-24 at 16 34 07 (1)](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/50e6e81a-4dda-4532-89cb-801b37545594)
 

@@ -59,6 +59,27 @@ class PhotosRepository {
         name: 'Pantai 3',
         location: 'Karang Taraje',
       ),
+      Photo(
+        category: Category.about,
+        id: 6,
+        isFeatured: true,
+        name: 'NAMA',
+        location: 'Linda Santika',
+      ),
+      Photo(
+        category: Category.about,
+        id: 7,
+        isFeatured: true,
+        name: 'NIM',
+        location: '221511052',
+      ),
+      Photo(
+        category: Category.about,
+        id: 8,
+        isFeatured: true,
+        name: 'E-mail',
+        location: 'linda.santika.tif22@polban.ac.id',
+      ),
     ];
     if (category == Category.all) {
       return allPhotos;

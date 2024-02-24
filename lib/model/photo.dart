@@ -17,6 +17,7 @@ enum Category {
   friends,
   beach,
   home,
+  about,
 }
 
 class Photo {

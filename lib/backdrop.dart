@@ -161,7 +161,7 @@ class _BackdropState extends State<Backdrop>
   @override
   Widget build(BuildContext context) {
     var appBar = AppBar(
-      backgroundColor: kShrinePink400,
+      backgroundColor: kShrineErrorRed,
       elevation: 0.0,
       titleSpacing: 0.0,
       // TODO: Replace leading menu icon with IconButton (104)

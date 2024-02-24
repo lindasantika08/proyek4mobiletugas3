@@ -3,7 +3,7 @@ PROYEK 4 TUGAS 3 MDC
 Dokumentasi hasil MDC 4 dengan sedikit modifikasi:
 
 
-Tampilan Awal:
+Tampilan Awal Aplikasi:
 ![Screenshot_2024-02-24-20-28-22-05_d82a03acf194932478dbd95ae2f4da94](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/6e7251c5-9fb5-4e9c-9694-563d021fe3b4)
 
 

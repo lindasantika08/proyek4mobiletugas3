@@ -4,29 +4,35 @@ Dokumentasi hasil MDC 4 dengan sedikit modifikasi:
 
 
 Tampilan Awal:
+![Screenshot_2024-02-24-20-28-22-05_d82a03acf194932478dbd95ae2f4da94](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/6e7251c5-9fb5-4e9c-9694-563d021fe3b4)
 
-![WhatsApp Image 2024-02-24 at 16 34 08 (2)](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/e5256bea-237b-42cf-be17-dbbfa0135abd)
+
 
 
 Tampilan dashboard menampilkan seluruh foto:
+![Screenshot_2024-02-24-20-23-15-38_d82a03acf194932478dbd95ae2f4da94](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/f10d1164-8e05-4bfd-8e48-cd6a802ce854)
 
-![WhatsApp Image 2024-02-24 at 16 34 07 (1)](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/50e6e81a-4dda-4532-89cb-801b37545594)
+
 
 
 Tampilan menu memilih foto berdasarkan kategori:
+![Screenshot_2024-02-24-20-28-54-14_d82a03acf194932478dbd95ae2f4da94](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/25bf7339-c93e-40b1-8515-bbc9ea80ac46)
 
-![WhatsApp Image 2024-02-24 at 16 34 08](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/1a6b48f9-f75d-462d-9ccb-db262a17cdd8)
+
 
 
 Tampilan dari memilih kategori friends:
+![Screenshot_2024-02-24-20-22-59-88_d82a03acf194932478dbd95ae2f4da94](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/038dac6f-3bf2-4f8d-a7f2-18acaadb72ef)
 
-![WhatsApp Image 2024-02-24 at 16 34 08 (1)](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/2f881817-c498-4e9d-bea6-6a256d4d826f)
+
 
 
 Tampilan hasil memilih kategori beach:
+![Screenshot_2024-02-24-20-23-20-88_d82a03acf194932478dbd95ae2f4da94](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/0750d2ef-d158-45cd-a1a1-0553f56c8d96)
 
-![WhatsApp Image 2024-02-24 at 16 34 07](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/c9980c7e-deb5-4f8e-9eb7-81f4eec9f8e0)
+
 
 Tampilan hasil memilih kategori about:
+![Screenshot_2024-02-24-20-23-28-31_d82a03acf194932478dbd95ae2f4da94](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/3a0420ef-1db8-4fd5-aa33-fa2568f5536f)
 
-![WhatsApp Image 2024-02-24 at 16 34 07 (2)](https://github.com/lindasantika08/proyek4mobiletugas3/assets/123919343/a2ed813d-0f2f-4170-979d-33f945f593b0)
+
